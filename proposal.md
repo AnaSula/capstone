@@ -23,4 +23,4 @@ writing a python module to match extracted list of strings to the titles of docu
 
 The final product will be a csv file containing pairs of document titles and IDs (a pair per row), indicating that the documents in a pair are related. Python pandas module will be used to make the file. Finally, the csv file will be consumed by Drupal’s entity reference module. The screenshot of final outcome below:
 
-![](https://github.com/AnaSula/capstone/image.png)
+![screenshot](image.png)
