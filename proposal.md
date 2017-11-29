@@ -1,7 +1,7 @@
 ## Capstone Project Proposal
 
 
-*### Abstract*
+### *Abstract*
 
 *The purpose of this project is to develop an automated solution for identifying relationships between documents by capturing textual references to other documents in a document body. The captured reference then will be matched to the relevant documents and will be connected using entity reference module in Drupal content management system.*
 
